@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1460120560 source:c:\users\sony\desktop\work\ftp_server_thread\main.cpp
+	<thread>
+	<mutex>
+	<fstream>
+	<vector>
+	<string>
+	"winsock2.h"
+

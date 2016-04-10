@@ -1,0 +1,8 @@
+﻿  FTP_Client_Thread.cpp
+f:\users\sony\documents\visual studio 2015\projects\ftp_client_thread\ftp_client_thread\ftp_client_thread.cpp(46): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: 参见“inet_addr”的声明
+f:\users\sony\documents\visual studio 2015\projects\ftp_client_thread\ftp_client_thread\ftp_client_thread.cpp(51): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: 参见“inet_addr”的声明
+f:\users\sony\documents\visual studio 2015\projects\ftp_client_thread\ftp_client_thread\ftp_client_thread.cpp(119): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  FTP_Client_Thread.vcxproj -> F:\users\sony\documents\visual studio 2015\Projects\FTP_Client_Thread\Debug\FTP_Client_Thread.exe
